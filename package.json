@@ -2,7 +2,7 @@
     "name": "simple-bot",
     "version": "1.0.0",
     "description": "This is a simple test and experiment bot",
-    "main": "i y i-bot.js",
+    "main": "trial-bot.js",
     "author": "Irzam#7858",
     "scripts": {
         "start": "node bot.js"
